@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hola mundo</title>
+  </head>
+  <body>
+
+   <h1>Hola mundo!</h1>
+   <img src="El mundo.jpg" weight=120 height=120>
+   <br>
+   En el desarrollo de esta práctica no ha muerto ningún gatito
+
+   <img src="Gatito.jpg" weight=120 height=120>
+   
+  </body>
+</html>  

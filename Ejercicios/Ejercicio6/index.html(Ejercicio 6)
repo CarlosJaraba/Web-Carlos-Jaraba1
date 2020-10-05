@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ejercicio 6</title>
+  </head>
+  <body>
+  <img src="Uvas.jpg">
+ <ul>
+   <ul>
+     <li>Rama principal</li>
+   </ul> 
+      <li type="circle">Ramita</li>
+     </ul>
+    </li>
+     
+      <ul> 
+       <li type="square">Uva</li>
+       <li type="square">Uva</li>
+       <li type="square">Uva</li>
+      </ul>
+     <ul>   
+      <li type="circle">Uva</li>
+      <li type="circle">Ramita</li>
+     </ul> 
+       <ul>
+        <li type="square">Uva</li>
+        <li type="square">Ramita</li>
+       </ul>
+         <ul>
+          <li type="square">Uva</li>
+          <li type="square">Uva</li>
+         </ul>
+       <ul> 
+        <li type="square">Uva</li>
+       </ul> 
+ </ul>
+
+   
+
+  </body>
+</html>  

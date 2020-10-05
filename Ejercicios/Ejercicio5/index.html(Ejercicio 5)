@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ejercicio 5</title>
+  </head>
+  <body>
+   
+   <h1>Mis cosas favoritas</h1>
+
+   <ol>
+    <li>Videojuegos</li> 
+    <li>Música</li>
+    <li>Pizza</li> 
+   </ol>
+
+    <h2>No me gusta</h2>
+
+   <ul>
+    <li>Los lunes</li>
+    <li>Judías verdes</li>
+    <li>Tareas de casa</li>
+   </ul>
+
+    <h3>Definiciones</h3>
+    
+   <dl>
+    <dt>Teléfono</dt>
+     <dd>
+     Sistema de comunicación que transmite la voz y el sonido a larga distancia por medios eléctricos o electromagnéticos
+     </dd>
+   </dl>
+   
+   <dl>
+    <dt>Altura</dt>
+     <dd>
+      Distancia vertical entre un objeto o punto determinado en el espacio y la superficie del nivel del mar, la terrestre u otro punto tomado como referencia
+     </dd>
+   </dl>
+
+  </body>
+</html>  
